@@ -1,0 +1,73 @@
+/* Your CSS styles here */
+
+/* Header Styles */
+header {
+    background-color: #252525;
+    color: #ffffff;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  /* Hero Section Styles */
+  .hero {
+    text-align: center;
+    padding: 100px 0;
+  }
+  
+  .hero h1 {
+    font-size: 36px;
+  }
+  
+  .hero p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    display: inline-block;
+    background-color: #F9ED32;
+    color: #252525;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  /* Footer Styles */
+  footer {
+    background-color: #252525;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  footer ul {
+    list-style-type: none;
+    margin-bottom: 10px;
+  }
+  
+  footer ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  .social-icons a {
+    display: inline-block;
+    margin-left: 10px;
+    color: #ffffff;
+    text-decoration: none;
+  }
+  

@@ -1,0 +1,70 @@
+/* Your CSS styles here */
+
+/* Header Styles */
+header {
+    background-color: #252525;
+    color: #ffffff;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  /* About Section Styles */
+  .about {
+    text-align: center;
+    padding: 50px 20px;
+  }
+  
+  .about h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .about p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  .about a {
+    color: #F9ED32;
+    text-decoration: none;
+  }
+  
+  /* Footer Styles */
+  footer {
+    background-color: #252525;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  footer ul {
+    list-style-type: none;
+    margin-bottom: 10px;
+  }
+  
+  footer ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  .social-icons a {
+    display: inline-block;
+    margin-left: 10px;
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
